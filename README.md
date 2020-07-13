@@ -8,3 +8,5 @@ Cardinal vowels and their formant frequencies are analyzed in three types of spe
 Results show that differences in acoustic vowel space cannot be entirely explained by differences in fundamental frequency, 
 and that speakers effectively manipulate vowel space size when imitating the speech of the opposite gender.  
 These conclusions have implications for future research into the physical and social causes of gender differences in speech.
+
+Please see file "MFAC Visualization and Area Calculation" for the main plot
