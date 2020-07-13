@@ -1,5 +1,5 @@
 # Gender-and-the-Acoustic-Vowel-Space
-#I used Daniel McCloy's 'phonR' package and followed his guidance here: [http://drammock.github.io/phonR/ ]
+I used Daniel McCloy's 'phonR' package and followed his guidance here: [http://drammock.github.io/phonR/ ]
 
 This study explores differences in female and male production of English vowels.    
 While many phoneticians have observed differences in the sizes of the female and male acoustic vowel space, 
