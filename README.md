@@ -9,4 +9,7 @@ Results show that differences in acoustic vowel space cannot be entirely explain
 and that speakers effectively manipulate vowel space size when imitating the speech of the opposite gender.  
 These conclusions have implications for future research into the physical and social causes of gender differences in speech.
 
-Please see file "MFAC Visualization and Area Calculation" for the main plot
+Please see file "MFAC Visualization and Area Calculation.ipynb" for the main area plot and R code used to produce it
+See "A Case Study on Gender and the Acoustic Vowel Space.pdf" for the written report
+See "MFAC.xlsx" for all the raw data
+
